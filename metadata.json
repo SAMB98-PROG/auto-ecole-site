@@ -1,0 +1,6 @@
+{
+  "name": "Auto-École Ndiouck - Dickel",
+  "description": "Site web officiel de l'Auto-École Ndiouck - Dickel à Mbacké, Sénégal. Formations professionnelles pour les Permis A, B, C, perfectionnement et cours de Code de la route.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
